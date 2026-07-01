@@ -1,0 +1,22 @@
+# Java compiled files
+*.class
+
+# Serialized files
+*.ser
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Build folders
+bin/
+out/
+build/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
