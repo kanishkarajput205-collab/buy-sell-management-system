@@ -66,7 +66,17 @@ Main.java
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Registration Page
+
+![Registration](screenshots/registration-page.png)
+
+### Buyer Dashboard
+
+![Buyer Dashboard](screenshots/buyer-dashboard.png)
+
+### Shopping Cart
+
+![Shopping Cart](screenshots/shopping-cart.png)
 
 ---
 
